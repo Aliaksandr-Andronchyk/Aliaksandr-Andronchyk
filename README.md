@@ -17,6 +17,7 @@
 - **[faststream-notify](https://github.com/SashaAndronchyk/faststream-notify)** – event-driven notification microservice: FastStream + RabbitMQ, pydantic v2, in-memory-broker tests
 - **DRAMOS** – real-time trading terminal: live price tape, signal engine, HMAC-signed exchange orders (Swift/Vapor + WebSocket)
 - **JourCheff** – AI chef assistant: dictate a dish → groceries land in a real supermarket cart (iOS + Node.js engine + Telegram bot)
+- **Animals Filter** – pet-ID camera app, version 1.0.3 live in the App Store since 07.09.2026 (SwiftUI, Vision, Core ML)
 - **A batch of shipped iOS apps** delivered to TestFlight through my own fully automated pipeline (archive → sign → upload via App Store Connect API) – see [portfolio](https://github.com/SashaAndronchyk/portfolio)
 
 📄 Resume versions: [Python Backend](https://github.com/SashaAndronchyk/portfolio/blob/main/resumes/python-backend.md) · [AI Integration](https://github.com/SashaAndronchyk/portfolio/blob/main/resumes/ai-integration.md) · [Fintech / Real-time](https://github.com/SashaAndronchyk/portfolio/blob/main/resumes/fintech-realtime.md)
